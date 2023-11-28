@@ -1,5 +1,5 @@
 
-# Project Pemrograman Berorientasi Obyek
+# Final Project Pemrograman Berorientasi Obyek
 
 Project ini membuat sebuah Music Player App dengan python tkinter.
 
@@ -9,7 +9,7 @@ Program Studi : Pendidikan Teknik Informatika dan  Komputer
 
 Universitas Negeri Semarang
 
-# Anggota Kelompok 7 👋
+# Members of The Group 7 👋
 
   1. Alfi Rahmawati        (5302422003)
   2. Julia Putri Pertiwi   (5302422033)
