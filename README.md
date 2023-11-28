@@ -47,7 +47,8 @@ https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20P
 - Use Case Diagaram
   ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/c929eaab-c661-4370-b8ec-db790b496e11)
 - Activiy Diagram
-  ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/f8c72479-dfb9-4001-a663-df62aa38978b)
+  ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/1be9621e-ea25-4a8b-9603-5aa9f0b24593)
+
 - Class diagram
   ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/4a2fe30e-a6d5-4116-917a-530abd7071eb)
 - Sequence diagram
