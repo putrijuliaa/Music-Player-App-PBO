@@ -1,4 +1,4 @@
-![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/41925dfc-5956-422f-8e0d-f22570aac0b9)
+
 # Project Pemrograman Berorientasi Obyek
 
 Project ini membuat sebuah Music Player App dengan python tkinter.
