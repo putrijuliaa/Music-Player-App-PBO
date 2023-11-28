@@ -1,5 +1,5 @@
 
-# Final Project Pemrograman Berorientasi Obyek
+# Final Project Oriented Object Programming: Music Player App
 
 Project ini membuat sebuah Music Player App dengan python tkinter.
 
@@ -9,7 +9,7 @@ Program Studi : Pendidikan Teknik Informatika dan  Komputer
 
 Universitas Negeri Semarang
 
-# Members of The Group 7 👋
+# Anggota Kelompok 7
 
   1. Alfi Rahmawati        (5302422003)
   2. Julia Putri Pertiwi   (5302422033)
@@ -17,7 +17,7 @@ Universitas Negeri Semarang
   4. fatkhur Rizal Dzabadi (5302422038)
 
 
-# Music Player App
+# Description
 
 Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App menggunakan python tkinter.
 
