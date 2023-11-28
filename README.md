@@ -1,4 +1,4 @@
-
+![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/41925dfc-5956-422f-8e0d-f22570aac0b9)
 # Project Pemrograman Berorientasi Obyek
 
 Project ini membuat sebuah Music Player App dengan python tkinter.
@@ -44,5 +44,17 @@ https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20P
 ![ss music player app](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/152194742/2e3ec7c7-28b5-4e92-8d9d-c53b0d301fe0)
 
 ## Diagram UML
+- Use Case Diagaram
+  ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/c929eaab-c661-4370-b8ec-db790b496e11)
+- Activiy Diagram
+  ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/f8c72479-dfb9-4001-a663-df62aa38978b)
+- Class diagram
+  ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/4a2fe30e-a6d5-4116-917a-530abd7071eb)
+- Sequence diagram
+  ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/a3d464b0-9879-4c0c-b962-3c727c595413)
+
+  
+
+
 Thank You!
 
