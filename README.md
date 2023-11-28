@@ -45,22 +45,27 @@ Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App
 
 ## Diagram UML
 <details>
-  <summary>- Use Case Diagaram</summary>
+  <summary>Use Case Diagram</summary>
   
    ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/c929eaab-c661-4370-b8ec-db790b496e11)
 </details>
 
- 
-- Activiy Diagram
+<details>
+  <summary>Activity Diagram</summary>
+
   ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/1be9621e-ea25-4a8b-9603-5aa9f0b24593)
-- Class diagram
+</details>
+ 
+<details>
+  <summary>Class Diagram</summary>
+
   ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/4a2fe30e-a6d5-4116-917a-530abd7071eb)
-- Sequence diagram
+</details>
+
+<details>
+  <summary>Sequence Diagram</summary>
+
   ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/2d1be866-a433-4a28-a221-714a83ebe706)
+</details>
 
-
-  
-
-
-Thank You!
 
