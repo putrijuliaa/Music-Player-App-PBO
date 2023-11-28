@@ -46,6 +46,7 @@ Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App
 ## Diagram UML
 <details>
   <summary>- Use Case Diagaram</summary>
+  
    ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/c929eaab-c661-4370-b8ec-db790b496e11)
 </details>
 
