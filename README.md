@@ -9,7 +9,7 @@ Program Studi : Pendidikan Teknik Informatika dan  Komputer
 
 Universitas Negeri Semarang
 
-# Kenalkan Kelompok 7 👋
+# Anggota Kelompok 7 👋
 
   1. Alfi Rahmawati        (5302422003)
   2. Julia Putri Pertiwi   (5302422033)
@@ -24,6 +24,7 @@ Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App
 ## Features
 
 - Loadsongs/add song
+- Memilih lagu
 - play song
 - next song/previous song
 - volume
@@ -33,6 +34,10 @@ Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App
 - remove song
 - track information
 - duration and slider
+- scroll playlist
+
+##Link Referensi
+https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20Player
 
 
 ## Screenshots
