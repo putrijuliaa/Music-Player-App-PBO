@@ -32,7 +32,7 @@ Universitas Negeri Semarang
 - duration and slider
 - scroll playlist
 
-## Referensi
+## References
 [pyGuru123](https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20Player)
 
 
