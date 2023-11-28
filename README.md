@@ -36,7 +36,7 @@ Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App
 - duration and slider
 - scroll playlist
 
-##Link Referensi
+## Link Referensi
 https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20Player
 
 
