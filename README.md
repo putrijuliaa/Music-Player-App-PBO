@@ -9,7 +9,7 @@ Program Studi : Pendidikan Teknik Informatika dan  Komputer
 
 Universitas Negeri Semarang
 
-# Anggota Kelompok 7
+## Anggota Kelompok 7
 
   1. Alfi Rahmawati        (5302422003)
   2. Julia Putri Pertiwi   (5302422033)
@@ -17,11 +17,7 @@ Universitas Negeri Semarang
   4. fatkhur Rizal Dzabadi (5302422038)
 
 
-# Description
-
-Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App menggunakan python tkinter.
-
-# Features
+## Features
 
 - Loadsongs/add song
 - Memilih lagu
@@ -36,14 +32,14 @@ Pada Project ini kami membuat Music Player App dengan nama Jafa Music Player App
 - duration and slider
 - scroll playlist
 
-# Referensi
+## Referensi
 [pyGuru123](https://github.com/pyGuru123/Python-Projects/tree/master/Musicxy%20-%20Music%20Player)
 
 
-# User Interface
+## User Interface
 ![ss music player app](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/152194742/2e3ec7c7-28b5-4e92-8d9d-c53b0d301fe0)
 
-# Diagram UML
+## Diagram UML
 <details>
   <summary>Use Case Diagram</summary>
   
