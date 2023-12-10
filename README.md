@@ -61,7 +61,7 @@ Universitas Negeri Semarang
 <details>
   <summary>Sequence Diagram</summary>
 
- ![image](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148305232/14e6c2fb-689c-4d79-8930-2213aea309f2)
+ ![sd baru drawio](https://github.com/putrijuliaa/Music-Player-App-PBO/assets/148188706/da18114f-49dd-4214-8835-94cbf17561dd)
 
 </details>
 
